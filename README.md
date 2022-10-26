@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 -->
 
 ### 📫 How to reach me: 
+https://www.linkedin.com/in/kumar-shishir-2b103749/
+[![download-1.png](https://i.postimg.cc/zfcqcTG5/download-1.png)](https://postimg.cc/jWyVWwfk)
+
 
 
 ### 🛠️ Tech Stack I work with
-  [![download.png](https://i.postimg.cc/MpLHjkJz/download.png)](https://postimg.cc/MnyqhFGL)
-  [![download-1.png](https://i.postimg.cc/zfcqcTG5/download-1.png)](https://postimg.cc/jWyVWwfk)
+  [![download.png](https://i.postimg.cc/MpLHjkJz/download.png)](https://webdriver.io/)
+  [![download-1.png](https://i.postimg.cc/zfcqcTG5/download-1.png)](https://appium.io/)
   
