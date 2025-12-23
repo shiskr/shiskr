@@ -35,7 +35,7 @@
 
 💼 **10+ years in Automation**
 
-🔭 Currently working on **[python_web_automation](https://github.com/shiskr/python_web_automation)**
+🔭 Currently working on **[My Photography](https://github.com/shiskr/myphotography)**
 
 🌱 Currently learning **MLOps, Data Science**
 
