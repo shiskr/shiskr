@@ -35,13 +35,11 @@
 
 💼 **10+ years in Automation**
 
-🔭 Currently working on **[My Photography](https://github.com/shiskr/myphotography)**
+🔭 Currently working on **[DataCleaningEDA](https://github.com/shiskr/DataCleaningEDA)**
 
 🌱 Currently learning **MLOps, Data Science**
 
-
 🎓 Certifications: **Post Graduate Diploma in DS & ML**
-
 
 📦 **13** repositories | ⭐ **1** stars | 👥 **6** followers
 
@@ -152,9 +150,9 @@
 
 <div align="center">
 
-<a href="https://github.com/shiskr/python_web_automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shiskr&repo=python_web_automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="python_web_automation"/></a>
-<a href="https://github.com/shiskr/self_automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shiskr&repo=self_automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="self_automation"/></a>
-<a href="https://github.com/shiskr/PW_framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shiskr&repo=PW_framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="PW_framework"/></a>
+<a href="https://github.com/shiskr/DataCleaningEDA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shiskr&repo=python_web_automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="DataCleaningEDA"/></a>
+<a href="https://github.com/shiskr/python_web_automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shiskr&repo=self_automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="python_web_automation"/></a>
+<a href="https://github.com/shiskr/instagram-sample-xcuitest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shiskr&repo=PW_framework&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="instagram-sample-xcuitest"/></a>
 <a href="https://github.com/shiskr/k6-sample"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shiskr&repo=k6-sample&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="k6-sample"/></a>
 <a href="https://github.com/shiskr/shiskr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shiskr&repo=shiskr&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="shiskr"/></a>
 
