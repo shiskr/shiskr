@@ -35,7 +35,7 @@
 
 💼 **10+ years in Automation**
 
-🔭 Currently working on **[DataCleaningEDA](https://github.com/shiskr/DataCleaningEDA)**
+🔭 Currently working on **[StockPrediction](https://github.com/shiskr/StockSentiment)**
 
 🌱 Currently learning **MLOps, Data Science**
 
