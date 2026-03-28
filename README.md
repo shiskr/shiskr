@@ -35,9 +35,9 @@
 
 💼 **10+ years in Automation**
 
-🔭 Currently working on **[StockPrediction](https://github.com/shiskr/StockSentiment)**
+🔭 Currently working on **[PhilosophyChatbot](https://github.com/shiskr/philosophy-chatbot)**
 
-🌱 Currently learning **MLOps, Data Science**
+🌱 Currently learning **AI/ML Engineering, Data Science**
 
 🎓 Certifications: **Post Graduate Diploma in DS & ML**
 
